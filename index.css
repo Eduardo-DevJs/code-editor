@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin:  0 auto;
+  padding: 30px;
+}
+
+.header {
+  text-align: center;
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+.txt_header {
+  font-size: 3rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #424344;
+}
+
+.btn_copy{
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.txt_desc{
+  font-size: 1.6em;
+  color: #424344;
+  font-weight: bolder;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.sub_title{
+  font-size: 2rem;
+  font-weight: bolder;
+  margin-bottom: 1.5rem;
+}
