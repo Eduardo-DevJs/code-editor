@@ -88,7 +88,7 @@ const stringDados = [
       console.log(comecaComJS); // Saída: true
     `,
     subtitulo: 'Verificando o Início da String',
-    desc: 'Verifica se uma string começa com determinada substring. Exemplo:',
+    desc: 'Verifica se uma string começa com determinada substring. Exemplo:'
   },
 ];
 

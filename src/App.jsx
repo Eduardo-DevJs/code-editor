@@ -17,8 +17,10 @@ const App = () => {
       </header>
       {stringDados.map(({ id, string, desc, subtitulo }) => (
         <div key={id} className="container">
+          <button className="btn_copy">ediat</button>
           <main>
             <h2 className="sub_title">{subtitulo}</h2>
+
             <p className="txt_desc">{desc}</p>
             <Editor
               value={string}
